@@ -25,6 +25,7 @@ The Road Accident Power BI Dashboard is designed to help users visualize and und
 
 ## Dashboard Overview
 Dashboard: https://github.com/Adarsh2701/Road-Accident-Power-BI-Dashboard/blob/main/Final%20Dashboard%20Image.PNG
+
 The dashboard includes several key features:
 
 - **Accident Trends**: Visualize trends over time, including monthly or yearly accident frequencies.
